@@ -1,0 +1,2 @@
+# VOIS_AICTE_Oct2025_MajorProject_M_TANUSREE_REDDY
+Netflix Data Analysis
