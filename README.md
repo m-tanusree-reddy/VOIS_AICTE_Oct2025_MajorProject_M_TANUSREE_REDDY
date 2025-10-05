@@ -1,4 +1,4 @@
-# VOIS_AICTE_Oct2025_MajorProject_Nihal_DR
+# VOIS_AICTE_Oct2025_MajorProject_M_TANUSREE_REDDY
 # 📊 Netflix Content Trends Analysis
 ## About the Author
 
