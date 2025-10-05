@@ -2,7 +2,7 @@
 # 📊 Netflix Content Trends Analysis
 ## About the Author
 
-- **Name:** Nihal DR
+- **Name:** M TANUSREE REDDY
 - **College:** CMR Institute of Technology
 - **Branch:** Artificial Intelligence & Data Science (AI&DS)
 
@@ -88,9 +88,6 @@ Saved outputs include:
 
 ---
 
-## 🚀 How to Run
-1. Clone this repository:  
-   ```bash
-   git clone [https://github.com//netflix-trends-analysis.git](https://github.com/NihalDR/VOIS_AICTE_Oct2025_MajorProject_Nihal_DR.git)
-   cd netflix-trends-analysis
+
+  
 
